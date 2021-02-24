@@ -14,7 +14,7 @@ Shooting
 
 The shooting factor is measured using Effective Field Goal Percentage (eFG%). 
 The formula for both offense and defense is (FG + 0.5 * 3P) / FGA. For the Suns offense this is (3351 + 0.5 * 796) / 7018 = .534, and for the defense it is (3328 + 0.5 * 494) / 7485 = .478.
-For the purpose of this project, based on the dataset provided, True Shooting Percentage (TS%) will be utilized instead of Effective Field Goal Percentage (eFG%).
+Disclaimer: [For the purpose of this project, based on the dataset provided, True Shooting Percentage (TS%) will be utilized instead of Effective Field Goal Percentage (eFG%).]
 
 Turnovers
 
