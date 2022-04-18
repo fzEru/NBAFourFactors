@@ -1,6 +1,5 @@
 ---
 title: "Final Report"
-author: "Mohammed Khan"
 output: pdf_document
 ---
 
